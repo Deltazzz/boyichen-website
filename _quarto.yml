@@ -1,0 +1,17 @@
+project:
+  type: website
+
+website:
+  title: "Boyi Chen"
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: work.qmd
+        text: Work
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

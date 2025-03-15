@@ -1,0 +1,44 @@
+---
+title: "Work & Research Experience"
+format: html
+---
+
+I have a strong foundation in **statistics, risk management, experimental design, and data science**. My experience spans academic research and industry applications, focusing on data-driven insights, financial modeling, and human behavior analysis.
+
+## **Risk Management Internship**
+**[Deloitte]** 
+- Applied **statistical modeling techniques** to analyze financial risk and decision-making processes.  
+- Conducted **data analysis** to identify patterns in financial risk exposure.  
+- Utilized **R and Stata** to implement risk assessment models and generate reports.
+
+**Shiseido** 
+- Assisted in **risk assessment** and financial analysis, focusing on statistical modeling for business decision-making.  
+- Conducted **data analysis** to evaluate risk factors affecting supply chain and financial operations.  
+- Utilized **R and Stata** to build predictive models for identifying potential business risks.  
+- Supported the **development of risk mitigation strategies** by leveraging data-driven insights.  
+
+
+## **Academic Research**
+### **The Effect of Reading Medium on Comprehension**  
+- Investigated whether reading on **paper vs. screen** impacts comprehension.  
+- Designed and conducted a **controlled experiment**, collecting data on reading performance.  
+- Used **statistical analysis in Stata** to evaluate reading comprehension outcomes.  
+- Findings contribute to understanding **cognitive processing differences** in digital vs. print reading.
+
+
+### **Impact of Morning Exercise and Coffee on Problem-Solving Ability**  
+- Conducted a factorial design experiment testing:  
+  - **Exercise conditions:** Strength training, jogging, yoga, or no exercise.  
+  - **Coffee intake:** 250 mL coffee, 60 mL espresso, or no coffee.  
+  - **Outcome:** 20-minute problem-solving test performance.  
+- Used **blocking by sex (male, female)** to control variability.  
+- Analyzed interactions between **caffeine intake and exercise** on cognitive function.
+
+## **Technical Skills**
+- **Programming:** R, Stata, Python  
+- **Data Analysis & Visualization:** R Studio, Stata, ggplot2, pandas  
+- **Statistical Modeling:** Regression, Monte Carlo methods, Experimental Design, ANOVA  
+
+## **Future Directions**
+I aim to leverage my expertise in **risk management, AI, and statistics** in future research and industry applications. I am currently exploring graduate programs in **AI, statistics, and risk modeling**, where I can further develop my skills in **predictive analytics and decision science**.
+

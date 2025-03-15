@@ -1,0 +1,43 @@
+---
+title: "About Me"
+format: html
+---
+
+<img src="files/profilepic.jpg" width="150px" style="border-radius: 50%; display: block; margin: auto;">
+
+
+I am **Boyi Chen**, a Statistics major at **UCLA**, with strong interests in **data science, risk management, and artificial intelligence**. My academic background combines **statistical modeling, data analysis, and experimental design**, equipping me with the tools to explore complex data-driven problems.
+
+## **Education**
+- **University of California, Los Angeles (UCLA)**
+  - Major: **Statistics**
+  - Expected Graduation: **07/2025**
+  - Relevant Coursework: Probability, Experimental Design, Monte Carlo Methods, Data Mining
+
+## **Research Interests**
+I am particularly interested in:
+- **Risk Management & Financial Modeling**  
+  My internship experience in **risk management** has given me exposure to practical applications of statistics in finance and decision-making.
+- **Artificial Intelligence & Statistical Learning**  
+  I am exploring graduate programs focusing on **AI, machine learning, and statistics** to further develop my expertise.
+- **Experimental Design & Human Behavior Analysis**  
+  I have worked on **factorial experiments**, such as analyzing how morning exercise and coffee impact **problem-solving ability**.
+
+## **Experience**
+- **Risk Management Internship** – Applied statistical modeling techniques to analyze financial risks.
+- **Academic Research** – Investigated the impact of **reading medium (paper vs. screen) on comprehension** using statistical methods.
+
+
+## **Technical Skills**
+- **Programming:** R, Stata, Python  
+- **Data Analysis & Visualization:** R Studio, Stata, ggplot2, pandas  
+- **Machine Learning & Statistical Methods:** Regression, Monte Carlo, Factorial Design  
+
+## **Future Goals**
+I am preparing for **graduate studies** in **AI, Statistics, or Risk Management**, and I aim to apply advanced statistical methods to solve real-world problems.
+
+## **Contact**
+- Email: **joecby@gmail.com**
+- GitHub: [https://github.com/Deltazzz](https://github.com/Deltazzz)
+- LinkedIn: [https://www.linkedin.com/in/joe-chen-787561275/](https://www.linkedin.com/in/joe-chen-787561275/)
+- [Download My CV](files/BoyiChen_CV.pdf)
