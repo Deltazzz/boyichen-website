@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work & Research Experience",
+    "section": "",
+    "text": "I have a strong foundation in statistics, risk management, experimental design, and data science. My experience spans academic research and industry applications, focusing on data-driven insights, financial modeling, and human behavior analysis."
+  },
+  {
+    "objectID": "work.html#risk-management-internship",
+    "href": "work.html#risk-management-internship",
+    "title": "Work & Research Experience",
+    "section": "Risk Management Internship",
+    "text": "Risk Management Internship\n[Deloitte] - Applied statistical modeling techniques to analyze financial risk and decision-making processes.\n- Conducted data analysis to identify patterns in financial risk exposure.\n- Utilized R and Stata to implement risk assessment models and generate reports.\nShiseido - Assisted in risk assessment and financial analysis, focusing on statistical modeling for business decision-making.\n- Conducted data analysis to evaluate risk factors affecting supply chain and financial operations.\n- Utilized R and Stata to build predictive models for identifying potential business risks.\n- Supported the development of risk mitigation strategies by leveraging data-driven insights."
+  },
+  {
+    "objectID": "work.html#academic-research",
+    "href": "work.html#academic-research",
+    "title": "Work & Research Experience",
+    "section": "Academic Research",
+    "text": "Academic Research\n\nThe Effect of Reading Medium on Comprehension\n\nInvestigated whether reading on paper vs. screen impacts comprehension.\n\nDesigned and conducted a controlled experiment, collecting data on reading performance.\n\nUsed statistical analysis in Stata to evaluate reading comprehension outcomes.\n\nFindings contribute to understanding cognitive processing differences in digital vs. print reading.\n\n\n\nImpact of Morning Exercise and Coffee on Problem-Solving Ability\n\nConducted a factorial design experiment testing:\n\nExercise conditions: Strength training, jogging, yoga, or no exercise.\n\nCoffee intake: 250 mL coffee, 60 mL espresso, or no coffee.\n\nOutcome: 20-minute problem-solving test performance.\n\n\nUsed blocking by sex (male, female) to control variability.\n\nAnalyzed interactions between caffeine intake and exercise on cognitive function."
+  },
+  {
+    "objectID": "work.html#technical-skills",
+    "href": "work.html#technical-skills",
+    "title": "Work & Research Experience",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: R, Stata, Python\n\nData Analysis & Visualization: R Studio, Stata, ggplot2, pandas\n\nStatistical Modeling: Regression, Monte Carlo methods, Experimental Design, ANOVA"
+  },
+  {
+    "objectID": "work.html#future-directions",
+    "href": "work.html#future-directions",
+    "title": "Work & Research Experience",
+    "section": "Future Directions",
+    "text": "Future Directions\nI aim to leverage my expertise in risk management, AI, and statistics in future research and industry applications. I am currently exploring graduate programs in AI, statistics, and risk modeling, where I can further develop my skills in predictive analytics and decision science."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Boyi Chen, a Statistics major at UCLA, with strong interests in data science, risk management, and artificial intelligence. My academic background combines statistical modeling, data analysis, and experimental design, equipping me with the tools to explore complex data-driven problems."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\n\nUniversity of California, Los Angeles (UCLA)\n\nMajor: Statistics\nExpected Graduation: 07/2025\nRelevant Coursework: Probability, Experimental Design, Monte Carlo Methods, Data Mining"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "About Me",
+    "section": "Research Interests",
+    "text": "Research Interests\nI am particularly interested in: - Risk Management & Financial Modeling\nMy internship experience in risk management has given me exposure to practical applications of statistics in finance and decision-making. - Artificial Intelligence & Statistical Learning\nI am exploring graduate programs focusing on AI, machine learning, and statistics to further develop my expertise. - Experimental Design & Human Behavior Analysis\nI have worked on factorial experiments, such as analyzing how morning exercise and coffee impact problem-solving ability."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\nRisk Management Internship – Applied statistical modeling techniques to analyze financial risks.\nAcademic Research – Investigated the impact of reading medium (paper vs. screen) on comprehension using statistical methods."
+  },
+  {
+    "objectID": "index.html#technical-skills",
+    "href": "index.html#technical-skills",
+    "title": "About Me",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nProgramming: R, Stata, Python\n\nData Analysis & Visualization: R Studio, Stata, ggplot2, pandas\n\nMachine Learning & Statistical Methods: Regression, Monte Carlo, Factorial Design"
+  },
+  {
+    "objectID": "index.html#future-goals",
+    "href": "index.html#future-goals",
+    "title": "About Me",
+    "section": "Future Goals",
+    "text": "Future Goals\nI am preparing for graduate studies in AI, Statistics, or Risk Management, and I aim to apply advanced statistical methods to solve real-world problems."
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\n\nEmail: joecby@gmail.com\nGitHub: https://github.com/Deltazzz\nLinkedIn: https://www.linkedin.com/in/joe-chen-787561275/\nDownload My CV"
+  }
+]
